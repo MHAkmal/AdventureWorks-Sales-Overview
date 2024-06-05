@@ -34,8 +34,8 @@ Steven
 ## User Stories 
 
 ### NO || As a (role) || I want (Request / Demand) ||	So that I (user value) || Acceptance criteria
-#### 1	|| Sales Manager || To get a dashboard overview of internet sales	|| Can follow better which customers and products sells the best || A Power BI dashboard which update data once a day
-#### 2	|| Sales Representative || A detailed overview of internet sales per customer || Can follow up my customers that buy the most and who can sells the most || A Power BI dashboard which allow me to filter data for each customers
-#### 3	|| Sales Representative || A detailed overview of internet sales per Products || Can follow up my products that sells the most || A Power BI dashboard which allow me to filter data for each product
-#### 4	|| Sales Manager || A dashboard overview of internet sales || Follow sales over time against budget || A Power BI dashboard with graphs and KPIs comparing against budget
+1.	Sales Manager || To get a dashboard overview of internet sales	|| Can follow better which customers and products sells the best || A Power BI dashboard which update data once a day
+2.	Sales Representative || A detailed overview of internet sales per customer || Can follow up my customers that buy the most and who can sells the most || A Power BI dashboard which allow me to filter data for each customers
+3.	Sales Representative || A detailed overview of internet sales per Products || Can follow up my products that sells the most || A Power BI dashboard which allow me to filter data for each product
+4.	Sales Manager || A dashboard overview of internet sales || Follow sales over time against budget || A Power BI dashboard with graphs and KPIs comparing against budget
 
